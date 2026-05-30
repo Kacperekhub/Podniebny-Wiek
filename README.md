@@ -18,6 +18,7 @@ Podniebny Wiek to miejsce, gdzie historia lotnictwa spotyka się z technologią.
 * Rys historyczny.
 * Specyfikację techniczną.
 
-## 📝 Źródła i Licencja
+## 📝 Licencja
 Projekt jest dostępny na licencji **MIT**. 
-Wszystkie wykorzystane modele 3D pochodzą z otwartych zasobów (szczegóły w pliku `ATTRIBUTION.md`).
+## 📚 Źródła i Prawa Autorskie
+Szczegółowy wykaz wszystkich wykorzystanych modeli 3D, grafik oraz materiałów audio/wideo znajduje się w pliku [ATTRIBUTION.md](ATTRIBUTION.md).
