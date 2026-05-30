@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Hangar 3D: F-35 Lightning II</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.0/model-viewer.min.js"></script>
+</head>
+<body>
+
+    <a href="hangar.html" class="back-btn">← Powrót do hangaru</a>
+
+    <div class="viewer-container">
+        <model-viewer 
+            src="assets/models/f35.glb" 
+            alt="Model 3D F-35 Lightning II" 
+            camera-controls 
+            auto-rotate 
+            shadow-intensity="1"
+            exposure="1.5"
+            camera-orbit="0deg 75deg 105%">
+        </model-viewer>
+    </div>
+
+<footer class="model-credits">
+    <p>Model 3D: <a href="https://sketchfab.com/XRTL" target="_blank">XRTL/Sketchfab</a></p>
+    <p>Licencja: Creative Commons Attribution</p>
+</footer>
+
+</body>
+</html>
